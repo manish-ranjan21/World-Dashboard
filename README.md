@@ -1,4 +1,4 @@
-# World-Dashboard
+# World-Population-Dashboard
 DATA VISUALIZATION FOR ANALYTICS
 
 
